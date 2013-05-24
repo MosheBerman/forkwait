@@ -1,0 +1,50 @@
+CelestialClown:forkwait Moshe$ ./a.out
+0: Start
+40: Number of forks = 5
+163: Child 0, pid = 21910, forked, waits 2016268 usec
+260: Child 1, pid = 21911, forked, waits 302020 usec
+349: Child 2, pid = 21912, forked, waits 1982720 usec
+457: Child 3, pid = 21913, forked, waits 1428122 usec
+564: Child 4, pid = 21914, forked, waits 1377734 usec
+303841: Child 1, pid = 21911, terminated
+1379765: Child 4, pid = 21914, terminated
+1430006: Child 3, pid = 21913, terminated
+1984585: Child 2, pid = 21912, terminated
+2017897: Child 0, pid = 21910, terminated
+2017956: End
+CelestialClown:forkwait Moshe$ ./a.out
+0: Start
+38: Number of forks = 7
+164: Child 0, pid = 21916, forked, waits 499150 usec
+260: Child 1, pid = 21917, forked, waits 852130 usec
+349: Child 2, pid = 21918, forked, waits 499216 usec
+461: Child 3, pid = 21919, forked, waits 2045460 usec
+567: Child 4, pid = 21920, forked, waits 1860616 usec
+657: Child 5, pid = 21921, forked, waits 1675772 usec
+755: Child 6, pid = 21922, forked, waits 1154788 usec
+500839: Child 2, pid = 21918, terminated
+500864: Child 0, pid = 21916, terminated
+853983: Child 1, pid = 21917, terminated
+1157028: Child 6, pid = 21922, terminated
+1677943: Child 5, pid = 21921, terminated
+1862668: Child 4, pid = 21920, terminated
+2047388: Child 3, pid = 21919, terminated
+2047472: End
+CelestialClown:forkwait Moshe$ ./a.out
+0: Start
+37: Number of forks = 7
+164: Child 0, pid = 21924, forked, waits 1633391 usec
+276: Child 1, pid = 21925, forked, waits 120827 usec
+401: Child 2, pid = 21926, forked, waits 2036825 usec
+540: Child 3, pid = 21927, forked, waits 255349 usec
+664: Child 4, pid = 21928, forked, waits 440259 usec
+790: Child 5, pid = 21929, forked, waits 591555 usec
+916: Child 6, pid = 21930, forked, waits 709237 usec
+122554: Child 1, pid = 21925, terminated
+257386: Child 3, pid = 21927, terminated
+442425: Child 4, pid = 21928, terminated
+593227: Child 5, pid = 21929, terminated
+711589: Child 6, pid = 21930, terminated
+1635105: Child 0, pid = 21924, terminated
+2038643: Child 2, pid = 21926, terminated
+2038713: End
